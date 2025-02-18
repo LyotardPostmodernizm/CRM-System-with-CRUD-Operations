@@ -150,13 +150,13 @@ This CRM system is built to manage customer information with the following key c
 
 ## Images from app
 
-![Uygulama Ekran Görüntüsü1](https://i.hizliresim.com/5qgnj1u.png)
+![Screenshot 1 from the app](https://github.com/user-attachments/assets/cc320ebf-9907-44aa-926b-47bd40ddcd04)
 
-![Uygulama Ekran Görüntüsü2](https://i.hizliresim.com/kflc8x4.png)
+![Screenshot 2 from the app](https://github.com/user-attachments/assets/58b40e64-04e5-429b-8ac3-965ba05010aa)
 
-![Uygulama Ekran Görüntüsü3](https://i.hizliresim.com/qd7t4xy.png)
+![Screenshot 3 from the app](https://github.com/user-attachments/assets/b00fd4c7-aa52-443a-95fd-aca2cc51c7fc)
 
-![Uygulama Ekran Görüntüsü3](https://i.hizliresim.com/q6ekl56.png)
+![Screenshot 4 from the app](https://github.com/user-attachments/assets/81b88ecd-1ef0-4c91-aa68-95bb33a50696)
 
 ## Contribution
 Feel free to open issues or submit pull requests if you'd like to contribute to the project. Any feedback or improvement suggestions are always welcome!
